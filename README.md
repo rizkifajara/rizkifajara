@@ -1,5 +1,11 @@
 # Hi there, I'm Rizki 👋
 
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-fajar-aristanto/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkifajar456@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62882006967338)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkifajara)
+
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical">
 
 <img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg">
@@ -85,6 +91,7 @@
     </td>
   </tr>
 </table>
+
 ## 🚀 Featured Projects
 - [next-portfolio](https://github.com/rizkifajara/next-portfolio): Portfolio website showcasing my work, built with Next.js, Tailwind CSS, and Sanity CMS.
 - [siayank](https://github.com/rizkifajara/siayank): A Line Bot for efficient class reminders and schedule management.
@@ -96,8 +103,6 @@
 ## 🌸 My Anime & Manga List
 ![Anilist Stats](https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg)
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/rizki-fajar-aristanto/)
 
 ## 🎵 Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
