@@ -6,13 +6,10 @@
 
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
 
-<!-- ## About Me
-
-Hey there! I'm Rizki, a code-wielding wizard with a passion for turning caffeine into elegant software solutions. When I'm not battling bugs or crafting pixel-perfect UIs, you can find me exploring the vast realms of anime and manga. I believe in the power of clean code, the magic of well-designed APIs, and the occasional rubber duck debugging session. My mission? To make the digital world a better place, one commit at a time. Let's build something awesome together! -->
-
-## 🔧 Technologies & Tools
-
 <table>
+  <tr>
+    <th colspan="6"><h2>🔧 Technologies & Tools</h2></th>
+  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
