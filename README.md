@@ -102,17 +102,17 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 390px;">
-    <h2>🌸 My Anime & Manga List</h2>
-    <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg" alt="Anilist Stats" width="50%">
-  </div>
-  
-  <div style="width: 390px;">
-    <h2>🎵 Currently listening to</h2>
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&
-bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" width="50%">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="390" valign="top">
+      <h2>🌸 My Anime & Manga List</h2>
+      <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg" alt="Anilist Stats" width="100%">
+    </td>
+    <td width="390" valign="top">
+      <h2>🎵 Currently listening to</h2>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
