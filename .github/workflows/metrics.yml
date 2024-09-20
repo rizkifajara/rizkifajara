@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: rizkifajara  # Replace with your Anilist username
+          plugin_anilist_user: zeropoint25  # Replace with your Anilist username
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 2
