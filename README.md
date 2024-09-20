@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/rizkifajara?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo&config.animated=true&config.display=large&anilist=1&anilist.user=zeropoint25&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user.css=true" alt="Metrics" width="400">
+  <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="400">
 </div>
 
 ## About Me
