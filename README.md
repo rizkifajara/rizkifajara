@@ -6,7 +6,9 @@
 
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
 
-<br><br><br><br><br><br>
+<!-- ## About Me
+
+Hey there! I'm Rizki, a code-wielding wizard with a passion for turning caffeine into elegant software solutions. When I'm not battling bugs or crafting pixel-perfect UIs, you can find me exploring the vast realms of anime and manga. I believe in the power of clean code, the magic of well-designed APIs, and the occasional rubber duck debugging session. My mission? To make the digital world a better place, one commit at a time. Let's build something awesome together! -->
 
 ## 🔧 Technologies & Tools
 
@@ -86,3 +88,19 @@
     </td>
   </tr>
 </table>
+## 🚀 Featured Projects
+- [next-portfolio](https://github.com/rizkifajara/next-portfolio): Portfolio website showcasing my work, built with Next.js, Tailwind CSS, and Sanity CMS.
+- [siayank](https://github.com/rizkifajara/siayank): A Line Bot for efficient class reminders and schedule management.
+- [clonegpt](https://github.com/rizkifajara/clonegpt): ChatGPT clone web app developed using Next.js, TailwindCSS, Firebase Firestore, and OpenAI API.
+- [diklikin](https://github.com/rizkifajara/diklikin): E-commerce platform built with Flask, featuring integrations with Midtrans SNAP, Cloudinary, and Google Maps API.
+- [ai-photo-generator](https://github.com/rizkifajara/ai-photo-generator): Next.js application that generates images from text prompts using AI, featuring a neobrutalism design and integration with FLUX.1-schnell model from Hugging Face.
+- [image-to-ascii](https://github.com/rizkifajara/image-to-ascii): Web application for converting images to ASCII art, built with FastAPI and Python, offering both web and command-line interfaces.
+
+## 🌸 My Anime & Manga List
+![Anilist Stats](https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/rizki-fajar-aristanto/)
+
+## 🎵 Currently listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
