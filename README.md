@@ -100,18 +100,6 @@
       </tr>
     </table>
   </div>
-  
-  <div style="width: 390px;">
-    <h2>🚀 Featured Projects</h2>
-    <ul>
-      <li><a href="https://github.com/rizkifajara/next-portfolio">next-portfolio</a>: Portfolio website showcasing my work, built with Next.js, Tailwind CSS, and Sanity CMS.</li>
-      <li><a href="https://github.com/rizkifajara/siayank">siayank</a>: A Line Bot for efficient class reminders and schedule management.</li>
-      <li><a href="https://github.com/rizkifajara/clonegpt">clonegpt</a>: ChatGPT clone web app developed using Next.js, TailwindCSS, Firebase Firestore, and OpenAI API.</li>
-      <li><a href="https://github.com/rizkifajara/diklikin">diklikin</a>: E-commerce platform built with Flask, featuring integrations with Midtrans SNAP, Cloudinary, and Google Maps API.</li>
-      <li><a href="https://github.com/rizkifajara/ai-photo-generator">ai-photo-generator</a>: Next.js application that generates images from text prompts using AI, featuring a neobrutalism design and integration with FLUX.1-schnell model from Hugging Face.</li>
-      <li><a href="https://github.com/rizkifajara/image-to-ascii">image-to-ascii</a>: Web application for converting images to ASCII art, built with FastAPI and Python, offering both web and command-line interfaces.</li>
-    </ul>
-  </div>
 </div>
 
 <div style="display: flex; justify-content: space-between;">

@@ -20,6 +20,9 @@ jobs:
           plugin_topics_limit: 15
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_repositories: yes
+          plugin_repositories_featured: 6
+          plugin_repositories_pinned: 6
           config_timezone: Asia/Jakarta
 
       - uses: lowlighter/metrics@latest
