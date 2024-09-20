@@ -1,8 +1,17 @@
 # Hi there, I'm Rizki 👋
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="400">
-  <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="400">
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="400">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical" alt="Top Languages" width="400">
+      </td>
+      <td style="border: none;">
+        <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="400">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- ## About Me
