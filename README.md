@@ -12,6 +12,10 @@
 
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
 
+<div align="left" width="390">
+
+## 🔧 Technologies & Tools
+
 <table>
   <tr>
     <th colspan="6"><h2>🔧 Technologies & Tools</h2></th>
@@ -92,6 +96,10 @@
   </tr>
 </table>
 
+</div>
+
+<div align="right" width="390">
+
 ## 🚀 Featured Projects
 - [next-portfolio](https://github.com/rizkifajara/next-portfolio): Portfolio website showcasing my work, built with Next.js, Tailwind CSS, and Sanity CMS.
 - [siayank](https://github.com/rizkifajara/siayank): A Line Bot for efficient class reminders and schedule management.
@@ -100,9 +108,16 @@
 - [ai-photo-generator](https://github.com/rizkifajara/ai-photo-generator): Next.js application that generates images from text prompts using AI, featuring a neobrutalism design and integration with FLUX.1-schnell model from Hugging Face.
 - [image-to-ascii](https://github.com/rizkifajara/image-to-ascii): Web application for converting images to ASCII art, built with FastAPI and Python, offering both web and command-line interfaces.
 
+<div align="left" width="390">
+
 ## 🌸 My Anime & Manga List
 ![Anilist Stats](https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg)
 
+</div>
+
+<div align="right" width="390">
 
 ## 🎵 Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
