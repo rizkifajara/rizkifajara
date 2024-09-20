@@ -10,7 +10,7 @@
         </div>
       </td>
       <td style="border: none;">
-        <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="400">
+        <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="500">
       </td>
     </tr>
   </table>
