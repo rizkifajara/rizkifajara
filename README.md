@@ -108,6 +108,7 @@
 - [ai-photo-generator](https://github.com/rizkifajara/ai-photo-generator): Next.js application that generates images from text prompts using AI, featuring a neobrutalism design and integration with FLUX.1-schnell model from Hugging Face.
 - [image-to-ascii](https://github.com/rizkifajara/image-to-ascii): Web application for converting images to ASCII art, built with FastAPI and Python, offering both web and command-line interfaces.
 
+</div>
 <div align="left" width="390">
 
 ## 🌸 My Anime & Manga List
