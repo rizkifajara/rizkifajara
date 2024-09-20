@@ -101,7 +101,7 @@ Hey there! I'm Rizki, a code-wielding wizard with a passion for turning caffeine
 - [image-to-ascii](https://github.com/rizkifajara/image-to-ascii): Web application for converting images to ASCII art, built with FastAPI and Python, offering both web and command-line interfaces.
 
 ## 🌸 My Anime & Manga List
-<!-- The Anilist stats are included in the metrics image above -->
+![Anilist Stats](https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/rizki-fajar-aristanto/)
