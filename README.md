@@ -1,16 +1,16 @@
 # Hi there, I'm Rizki 👋
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
-      <td style="border: none; vertical-align: top;">
+      <td style="border: none; width: 50%; vertical-align: top;">
         <div style="display: flex; flex-direction: column; height: 100%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="400">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical" alt="Top Languages" width="400">
+          <img src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical" alt="Top Languages" width="100%">
         </div>
       </td>
-      <td style="border: none;">
-        <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="500">
+      <td style="border: none; width: 50%;">
+        <img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="100%">
       </td>
     </tr>
   </table>
