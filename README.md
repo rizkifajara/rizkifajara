@@ -1,10 +1,10 @@
 # Hi there, I'm Rizki 👋
 
-<img align="left" width="400" alt="🦑" src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical">
+<img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical">
 
-<img align="right" width="400" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg">
+<img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg">
 
-<img align="left" width="400" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
+<img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
 
 <!-- ## About Me
 
