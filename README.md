@@ -1,13 +1,9 @@
 # Hi there, I'm Rizki 👋
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" alt="Metrics" width="400"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical" alt="Rizki's GitHub stats" width="400"></td>
-    </tr>
-  </table>
-</div>
+![Metrics](https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg)
+
+![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical)
+
 
 <!-- ## About Me
 
