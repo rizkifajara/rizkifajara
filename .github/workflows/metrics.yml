@@ -12,3 +12,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year  # or full-year
+          # Add other plugins and configurations here
