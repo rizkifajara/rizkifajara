@@ -104,8 +104,8 @@
   </tr>
 </table>
 
-<img align="right" width="390" alt="🦑" src="https://leetcard.jacoblin.cool/rizkifajar456?ext=activity&font=inconsolata">
-
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&redirect=true"><img align="left" width="390" alt="🦑" src="https://spotify-github-profile.kittinanx.com/api/view?uid=anonymoux_zero&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"></a>
+
+<img align="right" width="390" alt="🦑" src="https://leetcard.jacoblin.cool/rizkifajar456?ext=activity&font=inconsolata">
 
 <img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg">
