@@ -8,7 +8,7 @@
 
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api?username=rizkifajara&show_icons=true&theme=radical">
 
-<img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg">
+<img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics.svg" style="border: 1px solid #3D444D; border-radius: 10px;">
 
 <img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifajara&layout=compact&theme=radical">
 
@@ -108,4 +108,4 @@
 
 <img align="right" width="390" alt="🦑" src="https://leetcard.jacoblin.cool/rizkifajar456?ext=activity&font=inconsolata">
 
-<img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg">
+<img align="right" width="390" alt="🦑" src="https://github.com/rizkifajara/rizkifajara/blob/main/github-metrics-anilist.svg" style="border: 1px solid #3D444D; border-radius: 10px;">
