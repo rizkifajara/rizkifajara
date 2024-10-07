@@ -98,6 +98,26 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
             <br>PostgreSQL
           </td>
+
+          <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+            <br>Docker
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+            <br>AWS
+          </td>
+          <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+            <br>GraphQL
+          </td>
+          <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+            <br>Postman
+          </td>
         </tr>
       </table>
     </td>
